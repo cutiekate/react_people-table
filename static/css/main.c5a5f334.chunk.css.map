@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,eACF,CAEA,OACE,WACF,CAEA,kBACE,UACF,CAEA,iBACE,SACF","file":"main.c5a5f334.chunk.css","sourcesContent":[".header {\n  margin-left: 40%;\n}\n\n.table {\n  margin: auto;\n}\n\n.table__data.blue {\n  color: blue;\n}\n\n.table__data.red {\n  color: red;\n}\n"]}
